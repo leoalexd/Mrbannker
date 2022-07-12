@@ -191,7 +191,7 @@ async def ch(message: types.Message):
       "use_stripe_sdk": "true",
       "webauthn_uvpa_available": "true",
       "spc_eligible": "false",
-      "key": "pk_live_Nlfxy49RuJeHqF1XOAtUPUXg00fH7wpfXs",
+      "key": "sk_live_Kg1MHqwJb9v7v7EZ9OqPAVnYccjXCDISLemt",
       "client_secret": client
     }
     
